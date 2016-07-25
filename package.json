@@ -19,6 +19,6 @@
   "homepage": "https://github.com/i5ting/get_closest_package_json#readme",
   "dependencies": {
     "debug": "^2.2.0",
-    "jwf": "^1.0.7"
+    "jwf": "^1.0.8"
   }
 }
