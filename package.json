@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/i5ting/get_closest_package_json/issues"
   },
-  "homepage": "https://github.com/i5ting/get_closest_package_json#readme"
+  "homepage": "https://github.com/i5ting/get_closest_package_json#readme",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
 }
