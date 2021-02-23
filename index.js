@@ -17,7 +17,7 @@ function get_closest_package_json () {
         debug('exist file = ' + file)
         
         // get package.json content
-        config =  require('jwf')(file)
+        config =  require(file)
       }catch (e){
         console.error('get_closest_package_json' + e)
       }
