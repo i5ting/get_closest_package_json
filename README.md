@@ -1,12 +1,11 @@
 # get_closest_package_json
 
-
-[doc](https://github.com/i5ting/load_koa_middlewares/blob/master/README.zh.md)
+获取最近的package.json里的内容。
 
 ## Install
 
 ```
-$ [sudo] npm i -S get_closest_package_json
+$ npm i -S get_closest_package_json
 ```
 
 ## Usages
